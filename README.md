@@ -19,7 +19,40 @@ A powerful tool built using Microsoft Autogen that uses AI agents to solve LeetC
 - Docker (for code execution)
 - Conda (recommended for environment management)
 
+### Important Requirements
 
+#### Docker Requirement
+The app uses Docker for code execution, so users must:
+- Have Docker installed and running
+- Have appropriate permissions to use Docker
+- Docker socket must be accessible to the application
+
+#### API Keys
+The users will need to:
+- Have valid API keys (OpenAI API key or Gemini is required)
+- Set them up in their environment or a `.env` file
+
+  
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/leetcode-problem-solver.git
+cd leetcode-problem-solver
+```
+
+2. Create and activate a conda environment:
+```bash
+conda create -n leetcode-solver python=3.9
+conda activate leetcode-solver
+```
+
+3. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the application:
+```bash
+streamlit run app.py
 
 ## Usage
 
@@ -35,4 +68,6 @@ A powerful tool built using Microsoft Autogen that uses AI agents to solve LeetC
 - `Agents/`: Contains agent definitions and system messages
 - `configs/`: Configuration files for Docker and other settings
 
+## License
 
+[MIT License](LICENSE)
