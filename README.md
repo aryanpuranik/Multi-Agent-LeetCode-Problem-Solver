@@ -4,10 +4,11 @@ A powerful tool built using Microsoft Autogen that uses AI agents to solve LeetC
 
 
 ![LLM](https://img.shields.io/badge/LLM-OpenAI-black?style=flat-square)
-![Framework](https://img.shields.io/badge/Framework-Claude-8A2BE2?style=flat-square)
+![Autogen](https://img.shields.io/badge/Framework-Autogen-orange?style=flat-square)
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)
-![Project](https://img.shields.io/badge/Project-AI_NLP-lightgrey?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Tech-Agentic_AI-blue?style=flat-square)
+![Gen AI](https://img.shields.io/badge/Type-Gen_AI-purple?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 ## Features
