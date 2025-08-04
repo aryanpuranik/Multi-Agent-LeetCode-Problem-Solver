@@ -2,14 +2,14 @@
 
 A powerful tool built using Microsoft Autogen that uses AI agents to solve LeetCode problems with clean, efficient Python solutions.
 
+<a href="https://openai.com/" target="_blank">![LLM](https://img.shields.io/badge/LLM-OpenAI-black?style=flat-square)</a>
+<a href="https://github.com/microsoft/autogen" target="_blank">![Autogen](https://img.shields.io/badge/Framework-Autogen-orange?style=flat-square)</a>
+<a href="https://streamlit.io/" target="_blank">![Frontend](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat-square)</a>
+<a href="https://www.python.org/" target="_blank">![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)</a>
+<a href="https://www.microsoft.com/en-us/research/project/autogen/" target="_blank">![Agentic AI](https://img.shields.io/badge/Tech-Agentic_AI-blue?style=flat-square)</a>
+<a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">![Gen AI](https://img.shields.io/badge/Type-Gen_AI-purple?style=flat-square)</a>
+<a href="https://github.com/yourusername/leetcode-problem-solver" target="_blank">![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)</a>
 
-[![LLM](https://img.shields.io/badge/LLM-OpenAI-black?style=flat-square)](https://openai.com/)
-[![Autogen](https://img.shields.io/badge/Framework-Autogen-orange?style=flat-square)](https://github.com/microsoft/autogen)
-[![Frontend](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat-square)](https://streamlit.io/)
-[![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)](https://www.python.org/)
-[![Agentic AI](https://img.shields.io/badge/Tech-Agentic_AI-blue?style=flat-square)](https://www.microsoft.com/en-us/research/project/autogen/)
-[![Gen AI](https://img.shields.io/badge/Type-Gen_AI-purple?style=flat-square)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](https://github.com/yourusername/leetcode-problem-solver)
 
 ## Features
 
