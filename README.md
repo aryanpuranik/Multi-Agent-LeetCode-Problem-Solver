@@ -1,6 +1,6 @@
 # Multi-Agent LeetCode Problem Solver
 
-A powerful tool that uses AI agents to solve LeetCode problems with clean, efficient Python solutions.
+A powerful tool built using Microsoft Autogen that uses AI agents to solve LeetCode problems with clean, efficient Python solutions.
 
 ## Features
 
