@@ -2,6 +2,14 @@
 
 A powerful tool built using Microsoft Autogen that uses AI agents to solve LeetCode problems with clean, efficient Python solutions.
 
+
+![LLM](https://img.shields.io/badge/LLM-OpenAI-black?style=flat-square)
+![Framework](https://img.shields.io/badge/Framework-Claude-8A2BE2?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)
+![Project](https://img.shields.io/badge/Project-AI_NLP-lightgrey?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
 ## Features
 
 - **Dual Input System**: Separate input areas for problem description and starter code
