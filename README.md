@@ -53,7 +53,7 @@ pip install -r requirements.txt
 4. Run the application:
 ```bash
 streamlit run app.py
-
+```
 ## Usage
 
 1. Enter your LeetCode problem description in the left text area
